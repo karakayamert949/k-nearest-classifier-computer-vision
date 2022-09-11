@@ -1,5 +1,5 @@
 # Overview
-k-nearest claffier implementation in python
+k-nearest classifier implementation in python
 
 I used CIFAR-10 dataset for this project
 
