@@ -1,4 +1,5 @@
-k-nearest-classifier-computer-vision
+# Overview
+k-nearest claffier implementation in python
 
 I used CIFAR-10 dataset for this project
 
